@@ -10,5 +10,9 @@ yarn && yarn start
 
 ## Credits
 
-- https://github.com/slastowski/WheelLogAndroid
-- https://github.com/slarba/kswear
+- <https://github.com/slastowski/WheelLogAndroid>
+- <https://github.com/slarba/kswear>
+
+## License
+
+MIT
